@@ -17,6 +17,8 @@ public class Main {
     public static void main(String[] args) {
 
 int y=2;
+int x=0;
+
 
 System.out.println("Hello World! (Hussam!!!)");
 
