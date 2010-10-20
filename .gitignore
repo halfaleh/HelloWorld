@@ -4,3 +4,4 @@ dist
 dist/*
 private
 private/*
+nbproject/*
