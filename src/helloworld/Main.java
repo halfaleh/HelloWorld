@@ -15,8 +15,8 @@ public class Main {
      * @param args the command line arguments
      */ public static void main(String[] args) {
 
-int y=2;
-int x=0;
+int d=2;
+int s=0;
 
 
 System.out.println("Hello World! (majed branch)");
